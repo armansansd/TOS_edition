@@ -1,9 +1,9 @@
-###Le rapport au temps aujourd'hui  
+##Le rapport au temps aujourd'hui  
 Selon Bernard Montulet le temps possède deux dimension.
 Une première, celle de son objectivation, constitue une référence collective. Ce temps objectivé véhicule un cadre qui permet la coordination des activités, l’établissement d’une vie collective, l’organisation d’une société. Mais, si ce temps a une réalité, il ne possède pas une nature en soi. En effet, le temps prend sens dans une relation intersubjective, dans les activités concrètes de la vie quotidienne : c’est la
 deuxième perspective du temps, celle de sa subjectivation  
 
-#####Evolution de notre perception
+####Evolution de notre perception
 Le temps dans chaque société est donc une expérience, mais il est aussi une norme et une valeur.  
 Si on considère la question des rôles sociaux de sexe dans les sociétés industrielles (qui ont encore largement des incidences aujourd’hui), ceux-ci étaient dictés par le confinement du temps des femmes dans les activités de soin et d’éducation, et celui des hommes dans le travail.
 
@@ -23,7 +23,7 @@ du social, p131 (de l'édition 2006),Paris, L’Harmattan, 1998
 
 définissant une pluralité de type de rapport au temps tels que les routiniers, les planificateurs souples, rigides, improvisateurs réactifs…  
 
-#####Indivudualisation du temps
+####Indivudualisation du temps
  Les discours sur le manque de temps prennent de plus en plus d’ampleur, beaucoup d’individus se disent être dominés par le temps. Par ailleurs, on perçoit que, contrairement aux prédictions, le développement des nouvelles technologies n’a pas contribué à un allègement des difficultés temporelles mais plutôt à une productivité accrue par unité de temps.  
 
 Lotte Damhuis, _Des repères pour penser le temps_, fondation travail-université, 2008
@@ -35,7 +35,7 @@ En réponse à ces nouveaux besoins, la génération des Smartphone apparaît, a
 
 Annaëlle Perney, Le rapport au temps, <http://lettres.lecolededesign.com/2009/03/06/le-rapport-au-temps/>, mars 2009  
 
-#####l'ordinateur une technique temporelle
+####l'ordinateur une technique temporelle
 
 **horloge interne**  
 L’ensemble est, sur la plupart des architectures, complété d’une horloge qui cadence le processeur. Bien sûr, on souhaite qu'elle soit le plus rapide possible, mais on ne peut pas augmenter sans limites sa vitesse pour deux raisons :
@@ -75,12 +75,12 @@ Donc un processeur de 1Ghz peut effectuer 10⁶ calcules en 1seconde.
 
 
 
-#####l'ordinateur et moi (Sherry Turkle - The Second Self, p156)
+####l'ordinateur et moi (Sherry Turkle - The Second Self, p156)
 > A relationship with a computer can influence people’s conceptions of themselves, their jobs, their relationships with other people, and with their ways of thinking about social processes. It can be the basis for new aesthetic values, new rituals, new philosophy,
 new cultural forms.
 
 
-##### Steward Brand, l'ordinateur le plus lent du monde
+#### Steward Brand, l'ordinateur le plus lent du monde
 Un des grands penseurs de la cybernetique, connu pour avoir créer "The Whole Earth Catalog" et la communautée Well, souhaite réaliser l'ordinateur le plus du monde, une horloge qui sonne tout les 100 ans. Elle devrait fonctionner pendant 10000 ans et sera intallée au milieu du desert. 
 
 The Clock of the Long Now, nous rappel de penser à long terme et nous insite à la prudence face à l'accelération de nos temporalitées induit par les nouvelles technologies. 
@@ -94,13 +94,11 @@ But for now, Brand has to content himself with the 4-foot-high prototype. He gaz
 Sylvia Rubin, , <http://www.sfgate.com/entertainment/article/Thinking-in-Future-Tense-Inventor-Stewart-Brand-2916909.php>, 1999
 
 
-#####Exemple : accéleration des échanges boursier
+####Exemple : accéleration des échanges boursier
 
 >  depuis 2006, le marché boursier a connu plus de 18 000 crashes, 18 000 craches passés inaperçus tant ils ont eu lieu vite (ils durent 1 seconde et demie) et qui se sont accéléré pendant la crise financière de 2008.
 
 Xavier de la Porte, " La nouvelle écologie du temps ", <http://www.internetactu.net/2013/10/14/la-nouvelle-ecologie-du-temps/>, 2013
-
-###à lire / à faire :
 
 
 
