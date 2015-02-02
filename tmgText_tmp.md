@@ -1,5 +1,7 @@
-##Le rapport au temps aujourd'hui  
-Selon Bernard Montulet le temps possède deux dimension.
+Le rapport au temps aujourd'hui  
+===
+
+Selon Bernard Montulet le temps possède deux dimensions.
 Une première, celle de son objectivation, constitue une référence collective. Ce temps objectivé véhicule un cadre qui permet la coordination des activités, l’établissement d’une vie collective, l’organisation d’une société. Mais, si ce temps a une réalité, il ne possède pas une nature en soi. En effet, le temps prend sens dans une relation intersubjective, dans les activités concrètes de la vie quotidienne : c’est la
 deuxième perspective du temps, celle de sa subjectivation  
 
@@ -23,8 +25,9 @@ du social, p131 (de l'édition 2006),Paris, L’Harmattan, 1998
 
 définissant une pluralité de type de rapport au temps tels que les routiniers, les planificateurs souples, rigides, improvisateurs réactifs…  
 
-####Indivudualisation du temps
- Les discours sur le manque de temps prennent de plus en plus d’ampleur, beaucoup d’individus se disent être dominés par le temps. Par ailleurs, on perçoit que, contrairement aux prédictions, le développement des nouvelles technologies n’a pas contribué à un allègement des difficultés temporelles mais plutôt à une productivité accrue par unité de temps.  
+####Individualisation du temps
+
+Les discours sur le manque de temps prennent de plus en plus d’ampleur, beaucoup d’individus se disent être dominés par le temps. Par ailleurs, on perçoit que, contrairement aux prédictions, le développement des nouvelles technologies n’a pas contribué à un allègement des difficultés temporelles mais plutôt à une productivité accrue par unité de temps.  
 
 Lotte Damhuis, _Des repères pour penser le temps_, fondation travail-université, 2008
 
@@ -73,6 +76,7 @@ Donc un processeur de 1Ghz peut effectuer 10⁶ calcules en 1seconde.
 
 **overclocking**  
 
+**loie de Moore**
 
 
 ####l'ordinateur et moi (Sherry Turkle - The Second Self, p156)
