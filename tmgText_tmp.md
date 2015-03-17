@@ -2,7 +2,11 @@ Le rapport au temps aujourd'hui
 ===
 
 Selon Bernard Montulet le temps possède deux dimensions.
-Une première, celle de son objectivation, constitue une référence collective. Ce temps objectivé véhicule un cadre qui permet la coordination des activités, l’établissement d’une vie collective, l’organisation d’une société. Mais, si ce temps a une réalité, il ne possède pas une nature en soi. En effet, le temps prend sens dans une relation intersubjective, dans les activités concrètes de la vie quotidienne : c’est la
+Une première, celle de son objectivation, constitue une référence collective. Ce temps objectivé véhicule un cadre qui permet la coordination des activités, l’établissement d’une vie collective, l’organisation d’une société.  
+
+Il existe plusieurs convention temporelle, tout d'abords le "temps moyen de greenwitch" (GMT) est l'heure solaire moyenne, remplacé plus tard par le temps universelle coordonnée (UTC), faisant une moyenne entre le temps atomique et le temps solaire.  le temps atomique est définit par le BIPM en 1972, et est calculé grâce à une horloge au cesium 133. Il correspond à 9 de periode de radiation d'un atome. 
+
+Mais, si ce temps a une réalité, il ne possède pas une nature en soi. En effet, le temps prend sens dans une relation intersubjective, dans les activités concrètes de la vie quotidienne : c’est la
 deuxième perspective du temps, celle de sa subjectivation  
 
 ####Evolution de notre perception
