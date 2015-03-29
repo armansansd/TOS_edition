@@ -25,7 +25,7 @@ L'élément restauré reprend alors son emplacement d'origine. Par exemple, s'il
 
 ### et timing dans tout ça ? 
 Timing n'est pas une solution de sauvegarde mais un gestionnaire de fichiers. Il n'effectue pas une sauvegarde progressive de l'état général du système mais facilite la navigation au travers d'un ensemble de documents. Le temps devient un outil central de repérage et de marquage des fichiers pour l'utilisateur. Lorsqu'un logiciel comme Time Machine propose l'ensemble des documents présent à un instant *t*, timing ne présente que les fichiers manipulés/créés à cet instant, ces derniers ne seront pas visible à l'intant *t+1* ou *t-1*.  
-Néanmoins pour des raisons d'archivage, le suivit temporel d'un contenu peut-être activé ce qui produira un versionnage du contenu choisi. 
+Néanmoins pour des raisons d'archivage, le suivi temporel d'un contenu peut-être activé ce qui produira un *versionnage* du contenu choisi. 
 
 Enfin les programmes de "sauvegarde incrémentale" préserve l'architecture en arborescence des contenus, il est important d'insister qu'au travers de timing aucune structure de ce type n'est présente. J'ai souhaité anhiler toute reference à des système de classement pour proposer un déplacement strictement temporel au sein d'un "grand contenant".
 
