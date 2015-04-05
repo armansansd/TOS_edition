@@ -1,3 +1,6 @@
+##Temps Fractal
+Joël de Rosnay  
+
 <http://www.carrefour-du-futur.com/conf%C3%A9rences/temps-fractal-et-capital-temps-de-nouvelles-mani%C3%A8res-de-vivre-le-temps/>
 
 Une voie nouvelle serait sans doute à rechercher, comme je le propoe dans " l’Homme Symbiotique " du côté des relations entre le temps et l'information. On peut se demander en effet si la vitesse (perçue) de l'écoulement du temps ne serait pas liée à celle de la production d'information.
