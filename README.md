@@ -1,5 +1,5 @@
-# Timing-edition
-depot git pour une édition traitant du rapport qu'entretiennent les nouvelles technologies (en particulier les ordinateurs) avec le temps.  
+#Timing-edition
+Depot git pour une édition traitant du rapport qu'entretiennent les nouvelles technologies (en particulier les ordinateurs) avec le temps.  
 
 Les fichiers se séparent en deux catégories :  
 * les notes et extraits de conférences -> timing-notes  
@@ -9,11 +9,11 @@ références :
 
 Metamemoire - systèmes métaphoriques  
 *The Law of simplicity* - John Maeda  
-*Le Temps et sa flèche* -   
-*Penser la vitesse* - Arte doc
+*Le Temps et sa flèche* -   Etienne Klein  
+*Penser la vitesse* - Arte doc  
 *Les Enjeux spatiotemporels du social* - Bernard Montulet 
 
->Un livret d'images d'"insparition" sera ajouté en annexe
+>Les images présentes dans ce recueil sont repertoriées sur <rhlog.armansansd.net>
 
 
  
