@@ -3,7 +3,10 @@ Joël de Rosnay
 
 <http://www.carrefour-du-futur.com/conf%C3%A9rences/temps-fractal-et-capital-temps-de-nouvelles-mani%C3%A8res-de-vivre-le-temps/>
 
-Une voie nouvelle serait sans doute à rechercher, comme je le propoe dans " l’Homme Symbiotique " du côté des relations entre le temps et l'information. On peut se demander en effet si la vitesse (perçue) de l'écoulement du temps ne serait pas liée à celle de la production d'information.
+En réalité, les évolutions des sous-systèmes de la société peuvent être représentées par des faisceaux de courbes décrivant des phénomènes non linéaires affichant des courbures plus ou moins importantes selon les vitesses d'évolution. 
+
+Il semble que la densité des informations, sorte de " masse critique informationnelle ", crée une " bulle temporelle " ayant des constantes d'évolution propres. De même que la masse d'une étoile  " courbe" l'espace-temps, ainsi que le montre la théorie de la relativité, une masse critique d'information de très haute densité - résultant de multiples interactions, traitements parallèles et réseaux ramifiés de communication - " densifie " le temps. 
+Une voie nouvelle serait sans doute à rechercher, comme je le propose dans " l’Homme Symbiotique " du côté des relations entre le temps et l'information. On peut se demander en effet si la vitesse (perçue) de l'écoulement du temps ne serait pas liée à celle de la production d'information.
 
 Mais la cybernétique a ouvert une autre voie. Dans une boucle de rétroaction, la causalité est circulaire : la flèche du temps se referme sur elle-même. Les effets peuvent précéder leurs causes. Le sens de l'avant / après est bouleversé, la chronologie mise à mal. De ce fait, explication et implication ; savoir et sens ; causalité et finalité ; déterministe et finalisme, apparaissent comme autant d'alternatives irréductibles liées au problème du temps. Car c'est la référence à un unique sens de l'écoulement du temps qui les renvoie dos à dos. Celui du temps universel mesuré par les horloges, du temps de l'entropie croissante, de la désorganisation de l'univers selon le deuxième principe de la thermodynamique. Celui aussi de notre vie fléchée vers la mort, que nous faisons coïncider avec le temps de l'évolution du monde.
 
